@@ -1,4 +1,4 @@
-package com.github.ssooya90.mapper;
+package com.github.jojoldu.mapper;
 
 
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package com.github.ssooya90.mapper;
+package com.github.jojoldu.mapper;
 
 /**
  * Created by jojoldu@gmail.com on 2017. 6. 17.
